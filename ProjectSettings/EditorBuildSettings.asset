@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Start Menu.unity
     guid: 8a016569e3f6f4e58b6295f00f103503
   - enabled: 1
-    path: Assets/Project 3 - CSC 4820.unity
+    path: Assets/3D_FPS_Game.unity
     guid: 899165b3fb85c45b9970786f40ed4b79
   m_configObjects: {}
